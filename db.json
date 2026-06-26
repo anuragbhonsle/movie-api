@@ -1,0 +1,109 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "releaseDate": "1994-09-23",
+      "imdbRating": 9.3,
+      "genre": "Drama"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "releaseDate": "1972-03-24",
+      "imdbRating": 9.2,
+      "genre": "Crime"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "releaseDate": "2008-07-18",
+      "imdbRating": 9.0,
+      "genre": "Action"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "releaseDate": "1994-10-14",
+      "imdbRating": 8.9,
+      "genre": "Crime"
+    },
+    {
+      "id": 5,
+      "title": "The Lord of the Rings: The Return of the King",
+      "releaseDate": "2003-12-17",
+      "imdbRating": 9.0,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "releaseDate": "1994-07-06",
+      "imdbRating": 8.8,
+      "genre": "Drama"
+    },
+    {
+      "id": 7,
+      "title": "Inception",
+      "releaseDate": "2010-07-16",
+      "imdbRating": 8.8,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 8,
+      "title": "Fight Club",
+      "releaseDate": "1999-10-15",
+      "imdbRating": 8.8,
+      "genre": "Drama"
+    },
+    {
+      "id": 9,
+      "title": "Interstellar",
+      "releaseDate": "2014-11-07",
+      "imdbRating": 8.7,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 10,
+      "title": "The Matrix",
+      "releaseDate": "1999-03-31",
+      "imdbRating": 8.7,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "releaseDate": "2000-05-05",
+      "imdbRating": 8.5,
+      "genre": "Action"
+    },
+    {
+      "id": 12,
+      "title": "Whiplash",
+      "releaseDate": "2014-10-10",
+      "imdbRating": 8.5,
+      "genre": "Drama"
+    },
+    {
+      "id": 13,
+      "title": "The Prestige",
+      "releaseDate": "2006-10-20",
+      "imdbRating": 8.5,
+      "genre": "Mystery"
+    },
+    {
+      "id": 14,
+      "title": "The Lion King",
+      "releaseDate": "1994-06-24",
+      "imdbRating": 8.5,
+      "genre": "Animation"
+    },
+    {
+      "id": 15,
+      "title": "Parasite",
+      "releaseDate": "2019-05-30",
+      "imdbRating": 8.5,
+      "genre": "Thriller"
+    }
+  ]
+}
