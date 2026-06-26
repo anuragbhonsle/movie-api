@@ -22,7 +22,7 @@
       "releaseDate": "2008-07-18",
       "imdbRating": 9.0,
       "genre": "Action",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+      "poster": "https://en.wikipedia.org/wiki/File:The_Dark_Knight_(2008_film).jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "releaseDate": "1994-10-14",
       "imdbRating": 8.9,
       "genre": "Crime",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@
       "releaseDate": "2010-07-16",
       "imdbRating": 8.8,
       "genre": "Sci-Fi",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "releaseDate": "1999-03-31",
       "imdbRating": 8.7,
       "genre": "Sci-Fi",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "releaseDate": "2000-05-05",
       "imdbRating": 8.5,
       "genre": "Action",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
     },
     {
       "id": 12,
