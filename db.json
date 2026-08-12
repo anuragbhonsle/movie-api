@@ -33,13 +33,13 @@
       "poster": "https://i.pinimg.com/1200x/89/41/e7/8941e71464be8fe81ade92a86817338e.jpg"
     },
     {
-      "id": 5,
-      "title": "The Lord of the Rings: The Return of the King",
-      "releaseDate": "2003-12-17",
-      "imdbRating": 9.0,
-      "genre": "Fantasy",
-      "poster": "https://i.pinimg.com/1200x/70/b6/26/70b626fdb752416c85b11163cdca1d46.jpg"
-    },
+  "id": 5,
+  "title": "Spider-Man 3",
+  "releaseDate": "2007-05-04",
+  "imdbRating": 6.3,
+  "genre": "Action",
+  "poster": "https://image.tmdb.org/t/p/original/sJMTTGjtjvrMZ7G0oP9D13wNUum.jpg"
+},
     {
       "id": 6,
       "title": "Forrest Gump",
